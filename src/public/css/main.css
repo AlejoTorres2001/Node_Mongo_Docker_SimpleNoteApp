@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+.inicio{
+    background-color: bisque;
+    margin: auto;
+    width: 80%;
+    border: 3px solid wheat;
+    padding: 10px; 
+    margin: 20px;
+
+}
+.logo{
+    width: 40%;
+
+
+
+}
+.boton{
+    height: 3rem;
+}
