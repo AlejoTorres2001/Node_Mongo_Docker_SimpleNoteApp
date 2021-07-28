@@ -7,7 +7,7 @@ you can run this app without containers changing the connection string for the d
 
 **Docker Config**
 inside Dockerfile you will find configuration related to the app´s image, it is based on a node´s offcial image using  alpine linux 
-you can change the exposed port for four server there
+you can change the exposed port for your server there
 
 **Docker compose**
 inside this file you will find volumes config for both containers as well as port forwarding related stuff
